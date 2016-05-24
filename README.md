@@ -1,2 +1,2 @@
-# ROOTSummerStudentTutorial
-Notebooks for the ROOT summer student tutorials
+# ROOT Summer Student Tutorial
+Notebooks for the ROOT summer student tutorial.
